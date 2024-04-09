@@ -1,0 +1,3 @@
+F:\C++ WinForm\source\repos\Music Player\Music Player\x64\Release\Music Player.vcxproj.AssemblyReference.cache
+F:\C++ WinForm\source\repos\Music Player\Music Player\x64\Release\Music_Player.Form1.resources
+F:\C++ WinForm\source\repos\Music Player\Music Player\x64\Release\Music Player.vcxproj.GenerateResource.cache
