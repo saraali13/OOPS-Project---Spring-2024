@@ -1,5 +1,6 @@
-# Made using WinForm C++/CLI
+# WinForm C++/CLI
 # Only play (.WAV) files
+### icnludes visual studion solution file
 
 ## download [Music Player.exe] file to try it out..!
 
