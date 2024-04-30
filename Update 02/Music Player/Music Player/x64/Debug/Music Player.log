@@ -1,0 +1,11 @@
+﻿  CppCLR_WinFormsProject.cpp
+F:\C++ WinForm\source\repos\Music Player\CppCLR_WinFormsProject.cpp(1,1): warning C4005: '__CLR_VER': macro redefinition
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  F:\C++ WinForm\source\repos\Music Player\CppCLR_WinFormsProject.cpp(1,1):
+  '__CLR_VER' previously declared on the command line
+  
+F:\C++ WinForm\source\repos\Music Player\CppCLR_WinFormsProject.cpp(1,1): warning C4651: '/D__CLR_VER=40809195' specified for precompiled header but not for current compile
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Music Player.vcxproj -> F:\C++ WinForm\source\repos\Music Player\x64\Debug\Music Player.exe
