@@ -3,4 +3,4 @@
 # Group Members:
 - Syed Muneeb Ur Rehman
 - Adina Faraz
-- Syeda Sara Haider Ali Zaidi
+- Syeda Sara Zaidi
